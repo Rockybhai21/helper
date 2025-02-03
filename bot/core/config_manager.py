@@ -1,6 +1,6 @@
 from importlib import import_module
 import sys
-from config import
+from config import BOT_TOKEN, OWNER_ID
 
 
 class Config:
