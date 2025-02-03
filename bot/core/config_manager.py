@@ -1,5 +1,7 @@
 from importlib import import_module
 import sys
+from config
+
 
 class Config:
     AS_DOCUMENT = False
