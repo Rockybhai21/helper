@@ -8,7 +8,7 @@ class Config:
     AUTHORIZED_CHATS = "-1002338741331"
     BASE_URL = ""
     BASE_URL_PORT = 80
-    BOT_TOKEN = "7799355783:AAH0ptL2c_v6Yvc_lsuHS27MpUlEfQUoBwc"
+    BOT_TOKEN = ""
     CMD_SUFFIX = ""
     DATABASE_URL = ""
     DEFAULT_UPLOAD = "rc"
@@ -50,8 +50,8 @@ class Config:
     STOP_DUPLICATE = False
     STREAMWISH_API = ""
     SUDO_USERS = ""
-    TELEGRAM_API = "27317669"
-    TELEGRAM_HASH = "11b88c331c5d44fde57cf91de1a2156b"
+    TELEGRAM_API = ""
+    TELEGRAM_HASH = ""
     THUMBNAIL_LAYOUT = ""
     TORRENT_TIMEOUT = 0
     USER_TRANSMISSION = False
