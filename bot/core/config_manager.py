@@ -1,6 +1,6 @@
 from importlib import import_module
 import sys
-from config import BOT_TOKEN, OWNER_ID
+from config import BOT_TOKEN, OWNER_ID, TELEGRAM_API, TELEGRAM_HASH
 
 
 class Config:
@@ -29,7 +29,7 @@ class Config:
     MEDIA_GROUP = False
     MIXED_LEECH = False
     NAME_SUBSTITUTE = ""
-    OWNER_ID = 0
+    OWNER_ID = "6947378236"
     QUEUE_ALL = 0
     QUEUE_DOWNLOAD = 0
     QUEUE_UPLOAD = 0
@@ -50,8 +50,8 @@ class Config:
     STOP_DUPLICATE = False
     STREAMWISH_API = ""
     SUDO_USERS = ""
-    TELEGRAM_API = 0
-    TELEGRAM_HASH = ""
+    TELEGRAM_API = "27317669"
+    TELEGRAM_HASH = "11b88c331c5d44fde57cf91de1a2156b"
     THUMBNAIL_LAYOUT = ""
     TORRENT_TIMEOUT = 0
     USER_TRANSMISSION = False
