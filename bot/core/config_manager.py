@@ -1,6 +1,6 @@
 from importlib import import_module
 import sys
-from config
+from config import
 
 
 class Config:
